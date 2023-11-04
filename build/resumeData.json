@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name": "Muhammad Shahid",
+    "occupation": "Mobile Application & Web Developer",
+    "description": "I like dabbling in various parts of frontend and backend development and like to explore new technological innovations in the software world.  I have developed a portfolio of applications on different platforms including react native and flutter",
+    "image": "profilepic.jpeg",
+    "bio": "Graduated from Hamdard University with a Bachelor's Degree in Computer Science. Have Experience in Android/IOS (Hybrid) and Web Application Development using the Latest technologies like Flutter, React Native, Next JS ,React.js, MongoDB and Firebase",
+    "contactmessage": "If you have any queries and you want to start a new project you can contact me via email or whatsapp and i'll get back to you",
+    "email": "muhammadshahidraza8@gmail.com",
+    "phone": "(+92) 324 244 5623",
+    "address": {
+      "city": "Karachi, Pakistan"
+    },
+    "website": "http://",
+    "resumedownload": "/download/cv.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://pk.linkedin.com/in/muhammadshahidraza",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/MuhammadShahidRaza",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "https://join.skype.com/invite/pP5M0uRr6o31",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here is a list of my professional skills and languages",
+    "education": [
+      {
+        "school": "Hamdard University",
+        "degree": "Bachelor's of Science in Computer Science",
+        "graduated": "Feburary 2019"
+      },
+      {
+        "school": "Aptech Computer Education",
+        "degree": "ACCP-PRO",
+        "graduated": "December 2018"
+      },
+      {
+        "school": "Govt. degree college Gulshan-e-Iqbal",
+        "degree": "Intermediate, Pre-Engineering",
+        "graduated": "August 2014"
+      }
+    ],
+    "work": [
+      {
+        "company": "Spotii in a Box",
+        "title": "Software Engineer - I",
+        "years": "September 2022 - January 2023"
+      },
+      {
+        "company": "Techlabs-cc - Contract",
+        "title": "Software Engineer (Full Stack)",
+        "years": "March 2022 - July 2022"
+      },
+      {
+        "company": "Nexus Corporation-Ltd",
+        "title": "Software Engineer (Web & Mobile Apps)",
+        "years": "December 2020 - March 2022"
+      },
+      {
+        "company": "Webtrica Solution & Services",
+        "title": "React Native Developer",
+        "years": "June 2019 - May 2020"
+      },
+      {
+        "company": "JUST DIGITAL (PVT) LTD",
+        "title": "Intern (Web Developer)",
+        "years": "March 2019 - May 2019"
+      }
+    ],
+    "skills": [
+      "React Native",
+      "Flutter",
+      "React JS",
+      "Next JS",
+      "AWS Cognito",
+      "AWS Amplify",
+      "AWS DynamoDB" ,
+      "Typescript",
+      "Javascript",
+      "HTML5",
+      "CSS3",
+      "React Redux",
+      "Node JS",
+      "Express JS",
+      "Vercel",
+      "Tailwind CSS",
+      "Dart",
+      "Firebase",
+      "Mongo DB",
+      "MySQL",
+      "SQL Server",
+      "Bash",
+      "Powershell"
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amanzada Perfumes",
+        "category": "Ecommerce",
+        "image": "amanzada.png",
+        "url": "https://www.amanzadaperfumes.com/"
+      },
+      {
+        "title": "Lebon Point",
+        "category": "Ecommerce",
+        "image": "lebon.jpg",
+        "url": "http://lebonpoint.com/"
+      },
+      {
+        "title": "Leading Business Plans",
+        "category": "Business",
+        "image": "leadingbusinessplans.png",
+        "url": "https://leadingbusinessplans.com/"
+      },
+      {
+        "title": "Mortgage Amortization Calculator",
+        "category": "Finance",
+        "image": "mortgage-amortization.png",
+        "url": "https://ilovemakingmoney.com/calculator-test/"
+      },
+      {
+        "title": "Compound Interest Caclulator",
+        "category": "Finance",
+        "image": "compound-interest-calculator.png",
+        "url": "https://ilovemakingmoney.com/compound-interest-calculator/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Very fun to work with - great with revisions - and the function is super clean coding. Thanks!",
+        "user": "Kit Elliott - Finance Blogger"
+      },
+      {
+        "text": "Muhammad Shahid did a great job working on website for a real estate agent. He was able to completely design custom Wordpress site that looked and functioned like another site that we had liked. If you need custom Wordpress website design then he is the guy you should use.",
+        "user": "mediaproz - Fiverr Buyer"
+      },
+      {
+        "text": "Very good, patient and very professional! Will use him again for other websites. Highly recommended!",
+        "user": "bizconsultant4u - Fiverr Buyer"
+      }
+    ]
+  }
+}
